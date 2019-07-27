@@ -7,8 +7,8 @@ target 'NTMostPopularArticles' do
 
   # Pods for NTMostPopularArticles
   	pod 'Alamofire', '~> 5.0.0-beta.5'
-	pod 'SwiftEntryKit', '1.0.4'
-	pod 'Reachability'
+	pod 'GeometricLoaders'
+	pod 'ReachabilitySwift'
 
   target 'NTMostPopularArticlesTests' do
     inherit! :search_paths
